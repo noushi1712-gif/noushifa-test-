@@ -1,0 +1,6 @@
+{
+  "name": "CivicConnect",
+  "description": "A community-driven civic issue reporting and resolution platform allowing citizens to report problems, explore interactive maps, prevent duplicate reports, and track municipal progress.",
+  "requestFramePermissions": ["geolocation"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
